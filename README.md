@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Mahnoor 
 
-<!--
-**mahnoorrfatima/mahnoorrfatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS @ Fordham University '29 | AI/ML & Software Engineering | Aerospace 🚀
+3-2 Engineering Program 
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **AstroSearch** — LLM-powered semantic search over NASA's Astronomy Picture of the Day archive.
+
+🚀 **SpaceX Launch & Landing Prediction** — Machine learning model predicting Falcon 9 launch and landing success.
+
+## Tech
+
+Python • C++ • SQL • PyTorch • scikit-learn • FastAPI • React
