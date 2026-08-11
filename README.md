@@ -1,6 +1,6 @@
 # Hey, I'm Mahnoor 
 
-CS @ Fordham University '29 | AI/ML & Software Engineering | Aerospace 🚀
+CS @ Fordham University '29 | AI/ML & Software Engineering | Aerospace 
 3-2 Engineering Program 
 
 ## Projects
